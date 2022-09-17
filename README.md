@@ -1,2 +1,4 @@
 # UAC
 uawecoin
+UA 
+UKRAINE
