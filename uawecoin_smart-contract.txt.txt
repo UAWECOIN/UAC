@@ -349,7 +349,7 @@ contract BEP20Token is Context, IBEP20, Ownable {
   string private _name;
 
   constructor() public {
-    _name = "UAWECOIN" ;
+    _name = "UAWE_Coin" ;
     _symbol = "UAC";
     _decimals = 18;
     _totalSupply = 10000000000000000000000000;
